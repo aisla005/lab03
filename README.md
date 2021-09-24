@@ -1,15 +1,5 @@
-## Lab03
-
-# First section
-
-first para
-
-## Second section
-
-second para
-
-## Third section
-
-third para
-
-fourth
+# Lab 03
+## first section
+First paragraph
+## second section
+Second paragraph
